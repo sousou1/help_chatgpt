@@ -14,7 +14,7 @@ $ export OPENAI_API_KEY="hogehoge"
 ```
 $ python3 chat.py
 ```
-実行すると入力待ち状態になります。enterで返信が返ってきます。
+実行すると入力待ち状態になります。enterで返信が返ってきます。Ctrl + Dで終了します。
 
 #### オプション
 ```
